@@ -40,30 +40,7 @@
 </div>
 
 <details open>
-<summary><h3>Published games on itch.io</h3></summary>
 
-<div align="center">                         
-<a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"><p>Teacup Adventure</p></a>
-</div>
-<p>2D platformer with an interesting mechanic: when you jump, water comes out of the teacup, and you need to catch it to jump again!  
-Made using Python's pygame library (NO GAME ENGINE).</p>
-
-<div align="center">
-<a href="https://jirafey.itch.io/squaremadness"><img src="sm1.png" padding="10px"><p>Square Madness</p></a>
-</div>
-<p>A game where you try to withstand waves of enemies while constantly upgrading your ship!  
-This 2D game includes music, sound, video settings, and a proper menu. It was built in 3 days for Geojam 2022 using Python's pygame library (NO GAME ENGINE).</p>
-
-<div align="center">
-<a href="https://jirafey.itch.io/pong"><img src="pong1.png" padding="10px"><p>Pong</p></a>
-</div>
-<p>Retro pong game recreated using Python's turtle library (NO GAME ENGINE).</p>
-
-</details>
-
-#
-
-</div>
 <br>
 
 <div align="center">
