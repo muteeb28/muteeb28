@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Streaming]
-- 🌱 I’m currently learning [java]
-- 👯 I’m looking to collaborate on [RTMP stream]
-- 🤔 I’m looking for help with [java]
-- 💬 Ask me about [javascript]
-- 📫 How to reach me: [muteebmasoodi28@gmail.com]
-- ⚡ Fun fact: [I do powerlifting]
+- 🔭 I’m currently working on - 🔭 I’m currently working on [TripImpression](https://github.com/muteeb28/TripImpression)  
+- 🌱 I’m currently learning [Terraform-Azure](https://github.com/muteeb28/Terraform-Azure)  
+- 👯 I’m looking to collaborate on **RTMP streaming projects**  
+- 🤔 I’m looking for help with **Java**  
+- 💬 Ask me about [JavaScript](https://github.com/muteeb28/javascript)  
+- 📫 How to reach me: **muteebmasoodi28@gmail.com**  
+- ⚡ Fun fact: I am open to working on **web projects**  
 
 ## 🔧 Technologies & Tools
 
