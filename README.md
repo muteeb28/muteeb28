@@ -1,59 +1,42 @@
-<div align="center">
+# Hi there, I'm Muteeb! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=40&duration=4000&width=530&lines=Passionate+Computer+Science+student;C%23+Developer;Open+to+job+offers" alt="Typing SVG" align="center">
+Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and creating innovative solutions. Here's a little bit about me:
 
-![](https://komarev.com/ghpvc/?username=jirafey&style=flat&color=F1cc7b)
+## 🚀 About Me
 
-<img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=jirafey&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages"> <br>
+- 🔭 I’m currently working on [Streaming]
+- 🌱 I’m currently learning [java]
+- 👯 I’m looking to collaborate on [RTMP stream]
+- 🤔 I’m looking for help with [java]
+- 💬 Ask me about [javascript]
+- 📫 How to reach me: [muteebmasoodi28@gmail.com]
+- ⚡ Fun fact: [I do powerlifting]
 
-<img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph">
+## 🔧 Technologies & Tools
 
-<img src="https://github-readme-stats-k4xr.vercel.app/api?username=jirafey&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" height="150" alt="stats graph">
+![Python](https://img.shields.io/badge/-Python-FFD700?style=flat&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-FFD700?style=flat&logo=node.js&logoColor=black)
+![React](https://img.shields.io/badge/-React-FFD700?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-FFD700?style=flat&logo=docker&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-FFD700?style=flat&logo=git&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-FFD700?style=flat&logo=visual-studio-code&logoColor=black)
 
-</div>
+## 📈 GitHub Stats
 
-<div align="center">
+![Muteeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=muteeb28&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=000000)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/jirafey/jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
-![github contribution grid snake animation](https://raw.githubusercontent.com/jirafey/jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+## 📫 Connect with Me
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFD700?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-FFD700?style=flat&logo=twitter&logoColor=black)](https://twitter.com/your-profile)
+[![Email](https://img.shields.io/badge/-Email-FFD700?style=flat&logo=gmail&logoColor=black)](mailto:your-email@example.com)
 
-<div align="center">
-<h3>Skills</h3>
-<p align="center">
-<div align="center">
-<a href="https://en.wikipedia.org/wiki/Linux"><img height="32" width="32" alt="Linux" src="images/Linux-Dark.svg"></a>
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img height="32" width="32" src="images/CS.svg"></a>
-<a href="https://www.python.org"><img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="32" width="32" src="images/C.svg"></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="32" width="32" src="images/CPP.svg"></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg"></a>
-<a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg"></a>
-<a href="https://asciidoctor.org"><img height="32" width="32" alt="AsciiDoctor" src="images/asciidoctor-logo.svg"></a>
-<a href="https://www.markdownguide.org/"><img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></a>
-<a href="https://git-scm.com"><img height="32" width="32" alt="Git" src="images/Git.svg"></a>
-<a href="https://nixos.org/"><img height="32" width="32" alt="Nix" src="images/Nix-Dark.svg"></a>
-<a href="https://gitlab.com"><img height="32" width="32" alt="GitLab" src="images/GitLab-Dark.svg"></a>
-<a href="https://github.com/"><img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></a>
-<a href="https://vercel.com/"><img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></a>
-</div>
+## 🚀 Latest Projects
+- [TripImpression](https://github.com/muteeb28/TripImpression)  
+- [CampusMarket](https://github.com/muteeb28/CampusMarket)  
 
-<details open>
 
-<br>
+---
 
-<div align="center">
-<details>
-<summary><h5>Links to cool stuff that makes up my profile</h5></summary>
-
-[`Gradient GitHub Stats`](https://github.com/anuraghazra/github-readme-stats#readme)  
-[`GitHub contributions snake`](https://github.com/Platane/snk#readme)  
-[`Skill icons`](https://github.com/tandpfun/skill-icons#readme)  
-[`GitHub streaks`](https://github.com/DenverCoder1/github-readme-streak-stats#readme)
-
-</details>
-
-![](https://hit.yhype.me/github/profile?user_id=97115044)
-
-</div>
+Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project. 😊
